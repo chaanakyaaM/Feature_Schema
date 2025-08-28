@@ -2,7 +2,7 @@ from setuptools import setup, find_packages
 
 setup(
     name="feature_schema",  
-    version="0.1.3",  
+    version="0.1.5",  
     author="Chaaanakyaa Milkuri",
     author_email="chaanakyaam@gmail.com",
     description="A lightweight package to extract, document, and validate feature schemas from pandas DataFrames for ML workflows.",
